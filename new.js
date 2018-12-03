@@ -1,3 +1,6 @@
+function yearOfBirth(age){
+return 2016 - age;
+};
 
 function createGreeting(name, age) {
     const yearOfBirth = 2016 -age;
